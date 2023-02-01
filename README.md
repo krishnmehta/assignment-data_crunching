@@ -9,4 +9,5 @@ Approach
 5) After that export the Output file
 
 Input File - Same as given in question
+
 Output File - I was unable to upload the output file due to size limit, so I have put the screenshot of it.
